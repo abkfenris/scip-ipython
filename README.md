@@ -8,7 +8,7 @@ This is a set of iPython (Jupyter) Notebooks derived from the classic textbook [
 - [Chapter 1: Building Abstractions with Functions](Chapter_1_-_Building_Abstractions_with_Functions)
   - [1.1 - Introduction](Chapter_1_-_Building_Abstractions_with_Functions/1.1_Introduction.ipynb)
   - [1.2 - The Elements of Programming](Chapter_1_-_Building_Abstractions_with_Functions/1.2_The_Elements_of_Programming.ipynb)
-  - 1.3 - Defining New Functions
+  - [1.3 - Defining New Functions](Chapter_1_-_Building_Abstractions_with_Functions/1.3_Defining_New_Functions.ipynb)
   - 1.4 - Practical Guidance: The Art of the Function
   - 1.5 - Control
   - 1.6 - Higher-Order Functions
